@@ -17,5 +17,5 @@ app.use('/',rtMain)
 
 //arrancamos el servidor:
 app.listen(3000,(err)=>{
-    console.log('Server run on port 3000')
+    //console.log('Server run on port 3000')
 })
